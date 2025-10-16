@@ -1,5 +1,4 @@
 ###  OS-TBD2043 Course All Lab Tasks - GitHub Repository
-#### Author - Reeyan Afzal
 
 ___
 
